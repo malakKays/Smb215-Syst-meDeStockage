@@ -97,17 +97,11 @@ Pour ce moment, pas de contraintes remarquables. Les contraintes rencontrées du
 L'équipe de ce projet est formée de cinq membres. Chaque membre est un responsable d'une partie du projet, il doit repartir les tâches propres à sa partie pour que les autres membres puissent finir ces taches. La distribution et la gestion des tâches est faites sous pivotaltracker.
 
 |Membres|Rôle|
-
 |-----|------|
-
 |Membre 1 | Responsable de la gestion de la base de donnés.|
-
 |Membre 2 | Responsable de la partie côté serveur.|
-
 |Membre 3 | Responsable de l'application mobile.|
-
 |Membre 4 | Responsable de partie web.|
-
 |Membre 5 | Responsable du système de pistage.|
 
 # Pilotage du projet
