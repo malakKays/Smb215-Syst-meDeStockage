@@ -39,6 +39,7 @@ Les exigences sont réparties sur les trois rôles de la manière suivante :
         - il doit notifier que le produit est reçu
         - Il doit être notifié s’il y en a un sale ou s’il y en a de nouveaux produits spéciaux ou innovants
         - il doit recevoir des notifications s’il en a de nouveaux sur les catégories des produits qu'ils l'intéressent
+         
 ### Marchands
 - Identification:
     - Le marchand a un compte
@@ -82,6 +83,7 @@ Les exigences sont réparties sur les trois rôles de la manière suivante :
 - Notification:
     - notifier les marchands de nouveaux produits
     - notifier les marchands de la durée qu'il en a besoin pour délivrer les produits demandés par les marchands
+
 ## Contraintes
 Pour ce moment, pas de contraintes remarquables. Les contraintes rencontrées durant le travail seront mentionnées dans cette rubrique.
 # Organisation du projet
@@ -98,7 +100,9 @@ L'équipe de ce projet est formée de cinq membres. Chaque membre est un respons
 ## Estimations des charges et durées
 La durée du projet est environ de 600 heures de travail. Il comprend le développement, la planification et la gestion. Ces heurs sont repartis également sur tous les membres de l'équipe. Chaque membre est garant à l'estimation des charges et de la durée de la partie dont il est responsable.
 Le temps de délivrassions du projet est le début de mois de septembre 2016.
+
 ## Planification
 Les exigences actuelles sont ceux décrits dans ce plan, tous changement sera effectuer sur ces exigences directement. 
+
 ## Suivi du projet
 Le projet sera effectué suivant la méthode agile, et les tâches sont réparties et distribués sur pivotaltracker.
