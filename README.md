@@ -1,19 +1,23 @@
-# Smb215-Syst-meDeStockage
+# Smb215-SystemeDeStockage
 projet SMB215
 
 # Présentation du projet
 ## Objectifs
 Le canal de distribution est l'une des politiques du Marketing. De plus, la distribution est un moyen d'action sur le marché. Dans le cadre de la résolution des problèmes de distribution (lieu, temps, assortissent et quantité) nous souhaitons de subir ce projet de notre façon. Dans le but d'amélioration des services de distribution, nous avons planifié ce projet de sorte qu'il amène une espace économique plus rentable et plus efficace pour tous les acteurs dans un canal de distribution.
+
 ## Périmètre
 Les profiteurs de ce projet, sont tous les participants aux canaux de distributions. Pour cela ils sont répartis en trois groupes :
 - Les consommateurs, ce sont les utilisateurs finaux du système et ils représentent les clients des supermarchés et des autres magasins de ventes.
 - Les marchands, ce sont les propriétaires et les investisseurs des magasins et des boutiques de ventes. De plus, ils représentent les détaillants et les grossistes des marchandises à vendre pour des clients finaux ou bien pour des autres vendeurs.
 - Les producteurs, ce sont les producteurs des articles et les importateurs des marchandises de l'extérieures. Ils représentent le début du canal de distribution.
 Notons que chaque groupe représente un rôle, par exemple un courtier pour être un marchand qui peut vendre ces marchandises d'une part, et un client qui achetés ces marchandises d'un producteur d'autre part.
+
 ## Hors Périmètre
 Les agences de délivrassions seront exclus de ce projet, au quelle ils n'auront aucun rôle. La délivrassions doit être effectuer par les marchands ou par les producteurs.
+
 ## Exigences
 Les exigences sont réparties sur les trois rôles de la manière suivante :
+
 ### Consommateur
 - Identification : le client aura un compte, Il peut dans son compte préciser la location de sa maison ou de son travail et autre pour qu’il ne précise pas sa location à chaque fois qu’il envoie une requête.
 - Fonctionnalités :
@@ -86,17 +90,23 @@ Les exigences sont réparties sur les trois rôles de la manière suivante :
 
 ## Contraintes
 Pour ce moment, pas de contraintes remarquables. Les contraintes rencontrées durant le travail seront mentionnées dans cette rubrique.
+
 # Organisation du projet
+
 ## Organisation de l'équipe
 L'équipe de ce projet est formée de cinq membres. Chaque membre est un responsable d'une partie du projet, il doit repartir les tâches propres à sa partie pour que les autres membres puissent finir ces taches. La distribution et la gestion des tâches est faites sous pivotaltracker.
+
 |Membres|Rôle|
+
 |-----|------|
 |Membre 1 | Responsable de la gestion de la base de donnés.|
 |Membre 2 | Responsable de la partie côté serveur.|
 |Membre 3 | Responsable de l'application mobile.|
 |Membre 4 | Responsable de partie web.|
 |Membre 5 | Responsable du système de pistage.|
+
 # Pilotage du projet
+
 ## Estimations des charges et durées
 La durée du projet est environ de 600 heures de travail. Il comprend le développement, la planification et la gestion. Ces heurs sont repartis également sur tous les membres de l'équipe. Chaque membre est garant à l'estimation des charges et de la durée de la partie dont il est responsable.
 Le temps de délivrassions du projet est le début de mois de septembre 2016.
