@@ -103,8 +103,11 @@ L'équipe de ce projet est formée de cinq membres. Chaque membre est un respons
 |Membre 1 | Responsable de la gestion de la base de donnés.|
 
 |Membre 2 | Responsable de la partie côté serveur.|
+
 |Membre 3 | Responsable de l'application mobile.|
+
 |Membre 4 | Responsable de partie web.|
+
 |Membre 5 | Responsable du système de pistage.|
 
 # Pilotage du projet
