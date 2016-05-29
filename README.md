@@ -10,10 +10,10 @@ Les profiteurs de ce projet, sont tous les participants aux canaux de distributi
 - Les consommateurs, ce sont les utilisateurs finaux du système et ils représentent les clients des supermarchés et des autres magasins de ventes.
 - Les marchands, ce sont les propriétaires et les investisseurs des magasins et des boutiques de ventes. De plus, ils représentent les détaillants et les grossistes des marchandises à vendre pour des clients finaux ou bien pour des autres vendeurs.
 - Les producteurs, ce sont les producteurs des articles et les importateurs des marchandises de l'extérieures. Ils représentent le début du canal de distribution.
-Notons que chaque groupe représente un rôle, par exemple un courtier pour être un marchand qui peut vendre ces marchandises d'une part, et un client qui achetés ces marchandises d'un producteur d'autre part.
+Notons que chaque groupe représente un rôle, par exemple un courtier pour être un marchand qui peut vendre ces marchandises d'un part, et un client qui achetés ces marchandises d'un producteur d'autre part.
 
 ## Hors Périmètre
-Les agences de délivrassions seront exclus de ce projet, au quelle ils n'auront aucun rôle. La délivrassions doit être effectuer par les marchands ou par les producteurs.
+Les agences de délivrassions seront exclus de ce projet, auquel ils n'auront aucun rôle. La délivrassions doit être effectué par les marchands ou par les producteurs.
 
 ## Exigences
 Les exigences sont réparties sur les trois rôles de la manière suivante :
