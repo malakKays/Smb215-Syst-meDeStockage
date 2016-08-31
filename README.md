@@ -1,6 +1,8 @@
 [logo]: https://github.com/malakKays/Smb215-SystemeDeStockage/blob/master/attention2.png?raw=true
 
-# ![alt text][logo] Nouveau lien vers le projet : https://github.com/StockManagement/
+# ![alt text][logo] 
+# Nouveau lien vers le projet : 
+# https://github.com/StockManagement/
 #
 #
 #
